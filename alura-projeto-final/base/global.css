@@ -1,0 +1,25 @@
+@import url('./fontes.css');
+@import url('./reset.css');
+@import url('./variables.css');
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: var(--poppins-font);
+ 
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
